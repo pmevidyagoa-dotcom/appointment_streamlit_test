@@ -1,10 +1,10 @@
 """
-app.py
+appointment_app.py
 ------
 Entry point: wires the MVC layers together and manages navigation state.
 
 Run with:
-    streamlit run app.py
+    streamlit run appointment_app.py
 """
 
 import sys
